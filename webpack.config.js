@@ -12,6 +12,11 @@ module.exports = {
             $: "jquery",
             jQuery: "jquery"
         }),
-    ], 
-    mode: 'development',    
+    ],
+    mode: 'development',
+    devServer: {
+        static: {
+            directory: path.join(__dirname, '/'),
+        },
+    },
 };
