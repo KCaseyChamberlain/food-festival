@@ -1,7 +1,7 @@
 # Food Festival
 
 ### Description
-This front end progressive web application (P.W.A.) uses service workers to cache assets for offline functionality. Utilizes lazy loading. Uses webpack dependency graphs to keep track of needed bundles for each entry point. All this is in place to create an efficient and responsive web application.
+This front-end progressive web application (P.W.A.) uses service workers to cache assets for offline functionality. Utilizes lazy loading. Uses webpack dependency graphs to keep track of needed bundles for each entry point. All this is in place to create an efficient and responsive web application.
 
 ### License
 ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
